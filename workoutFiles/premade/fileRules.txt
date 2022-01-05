@@ -1,0 +1,10 @@
+Naming Convention:
+1 - arms
+2 - legs
+3 - abs
+4 - back
+5 - shoulders
+6 - chest
+7 - hips
+8 - fullBody
+
